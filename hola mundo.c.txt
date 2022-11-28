@@ -1,8 +1,10 @@
 int main(){
-
+char mesaje;
 printf("hola mundo");
 
 
+printf("digite un mensaje");
+scanf("%C",&mensaje);
 
 
 }
